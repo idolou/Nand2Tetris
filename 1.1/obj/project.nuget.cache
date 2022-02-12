@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pZharodn006ezxLiXYcPUFKqTrwMwOVzg3pVyIublpKieeDlN3/pK6Ufa2k/qn6NWXUAOesnDMizh0VtC9KqFg==",
+  "success": true,
+  "projectFilePath": "C:\\IDDO\\לימודים\\BGU 21-22\\סמסטר א\\מבנה מערכות מחשוב\\עבודות\\1\\Components\\Components.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\idolo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\idolo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\idolo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\idolo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,27 @@
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\bin\Debug\netcoreapp3.1\Components.exe
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\bin\Debug\netcoreapp3.1\Components.deps.json
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\bin\Debug\netcoreapp3.1\Components.runtimeconfig.json
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\bin\Debug\netcoreapp3.1\Components.runtimeconfig.dev.json
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\bin\Debug\netcoreapp3.1\Components.dll
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\bin\Debug\netcoreapp3.1\Components.pdb
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\obj\Debug\netcoreapp3.1\Components.csprojAssemblyReference.cache
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\obj\Debug\netcoreapp3.1\Components.AssemblyInfoInputs.cache
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\obj\Debug\netcoreapp3.1\Components.AssemblyInfo.cs
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\obj\Debug\netcoreapp3.1\Components.csproj.CoreCompileInputs.cache
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\obj\Debug\netcoreapp3.1\Components.dll
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\obj\Debug\netcoreapp3.1\Components.pdb
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\obj\Debug\netcoreapp3.1\Components.genruntimeconfig.cache
+C:\IDDO\לימודים\BGU 21-22\סמסטר א\מבנה מערכות מחשוב\עבודות\1\Components\bin\Debug\netcoreapp3.1\Components.exe
+C:\IDDO\לימודים\BGU 21-22\סמסטר א\מבנה מערכות מחשוב\עבודות\1\Components\bin\Debug\netcoreapp3.1\Components.deps.json
+C:\IDDO\לימודים\BGU 21-22\סמסטר א\מבנה מערכות מחשוב\עבודות\1\Components\bin\Debug\netcoreapp3.1\Components.runtimeconfig.json
+C:\IDDO\לימודים\BGU 21-22\סמסטר א\מבנה מערכות מחשוב\עבודות\1\Components\bin\Debug\netcoreapp3.1\Components.runtimeconfig.dev.json
+C:\IDDO\לימודים\BGU 21-22\סמסטר א\מבנה מערכות מחשוב\עבודות\1\Components\bin\Debug\netcoreapp3.1\Components.dll
+C:\IDDO\לימודים\BGU 21-22\סמסטר א\מבנה מערכות מחשוב\עבודות\1\Components\bin\Debug\netcoreapp3.1\Components.pdb
+C:\IDDO\לימודים\BGU 21-22\סמסטר א\מבנה מערכות מחשוב\עבודות\1\Components\obj\Debug\netcoreapp3.1\Components.csproj.AssemblyReference.cache
+C:\IDDO\לימודים\BGU 21-22\סמסטר א\מבנה מערכות מחשוב\עבודות\1\Components\obj\Debug\netcoreapp3.1\Components.GeneratedMSBuildEditorConfig.editorconfig
+C:\IDDO\לימודים\BGU 21-22\סמסטר א\מבנה מערכות מחשוב\עבודות\1\Components\obj\Debug\netcoreapp3.1\Components.AssemblyInfoInputs.cache
+C:\IDDO\לימודים\BGU 21-22\סמסטר א\מבנה מערכות מחשוב\עבודות\1\Components\obj\Debug\netcoreapp3.1\Components.AssemblyInfo.cs
+C:\IDDO\לימודים\BGU 21-22\סמסטר א\מבנה מערכות מחשוב\עבודות\1\Components\obj\Debug\netcoreapp3.1\Components.csproj.CoreCompileInputs.cache
+C:\IDDO\לימודים\BGU 21-22\סמסטר א\מבנה מערכות מחשוב\עבודות\1\Components\obj\Debug\netcoreapp3.1\Components.dll
+C:\IDDO\לימודים\BGU 21-22\סמסטר א\מבנה מערכות מחשוב\עבודות\1\Components\obj\Debug\netcoreapp3.1\Components.pdb
+C:\IDDO\לימודים\BGU 21-22\סמסטר א\מבנה מערכות מחשוב\עבודות\1\Components\obj\Debug\netcoreapp3.1\Components.genruntimeconfig.cache
